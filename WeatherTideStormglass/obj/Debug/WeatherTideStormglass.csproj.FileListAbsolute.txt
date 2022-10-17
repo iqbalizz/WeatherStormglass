@@ -1,0 +1,13 @@
+D:\PENS\Tugas Pens\Semester 5\Pemrograman Jaringan Komputer\WeatherTideStormglass-master\WeatherTideStormglass-master\WeatherTideStormglass\bin\Debug\WeatherTideStormglass.exe.config
+D:\PENS\Tugas Pens\Semester 5\Pemrograman Jaringan Komputer\WeatherTideStormglass-master\WeatherTideStormglass-master\WeatherTideStormglass\bin\Debug\WeatherTideStormglass.exe
+D:\PENS\Tugas Pens\Semester 5\Pemrograman Jaringan Komputer\WeatherTideStormglass-master\WeatherTideStormglass-master\WeatherTideStormglass\bin\Debug\WeatherTideStormglass.pdb
+D:\PENS\Tugas Pens\Semester 5\Pemrograman Jaringan Komputer\WeatherTideStormglass-master\WeatherTideStormglass-master\WeatherTideStormglass\bin\Debug\Newtonsoft.Json.dll
+D:\PENS\Tugas Pens\Semester 5\Pemrograman Jaringan Komputer\WeatherTideStormglass-master\WeatherTideStormglass-master\WeatherTideStormglass\bin\Debug\Newtonsoft.Json.xml
+D:\PENS\Tugas Pens\Semester 5\Pemrograman Jaringan Komputer\WeatherTideStormglass-master\WeatherTideStormglass-master\WeatherTideStormglass\obj\Debug\WeatherTideStormglass.csproj.AssemblyReference.cache
+D:\PENS\Tugas Pens\Semester 5\Pemrograman Jaringan Komputer\WeatherTideStormglass-master\WeatherTideStormglass-master\WeatherTideStormglass\obj\Debug\WeatherTideStormglass.Form1.resources
+D:\PENS\Tugas Pens\Semester 5\Pemrograman Jaringan Komputer\WeatherTideStormglass-master\WeatherTideStormglass-master\WeatherTideStormglass\obj\Debug\WeatherTideStormglass.Properties.Resources.resources
+D:\PENS\Tugas Pens\Semester 5\Pemrograman Jaringan Komputer\WeatherTideStormglass-master\WeatherTideStormglass-master\WeatherTideStormglass\obj\Debug\WeatherTideStormglass.csproj.GenerateResource.cache
+D:\PENS\Tugas Pens\Semester 5\Pemrograman Jaringan Komputer\WeatherTideStormglass-master\WeatherTideStormglass-master\WeatherTideStormglass\obj\Debug\WeatherTideStormglass.csproj.CoreCompileInputs.cache
+D:\PENS\Tugas Pens\Semester 5\Pemrograman Jaringan Komputer\WeatherTideStormglass-master\WeatherTideStormglass-master\WeatherTideStormglass\obj\Debug\WeatherTideStormglass.csproj.CopyComplete
+D:\PENS\Tugas Pens\Semester 5\Pemrograman Jaringan Komputer\WeatherTideStormglass-master\WeatherTideStormglass-master\WeatherTideStormglass\obj\Debug\WeatherTideStormglass.exe
+D:\PENS\Tugas Pens\Semester 5\Pemrograman Jaringan Komputer\WeatherTideStormglass-master\WeatherTideStormglass-master\WeatherTideStormglass\obj\Debug\WeatherTideStormglass.pdb
